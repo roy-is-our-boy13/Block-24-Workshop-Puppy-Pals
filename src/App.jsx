@@ -1,6 +1,7 @@
 import {puppyList} from './data.js'
 import {useState} from 'react'
-//import './path-to-css.css'
+import './App.css';
+import './index.css';
 
 function App() 
 {
