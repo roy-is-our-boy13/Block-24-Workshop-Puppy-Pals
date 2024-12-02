@@ -1,6 +1,6 @@
 # Block-24-Workshop-Puppy-Pals
 
-### Link:
+### Deployed Application Link:
 ```
 https://strong-tartufo-86a380.netlify.app/
 ```
